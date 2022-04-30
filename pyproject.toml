@@ -8,6 +8,7 @@ authors = ["Jessica David <jessica.david@elastic.co>"]
 python = "^3.9"
 Flask = "^2.1.2"
 elastic-apm = {extras = ["flask"], version = "^6.9.1"}
+psutil = "^5.9.0"
 
 [tool.poetry.dev-dependencies]
 
