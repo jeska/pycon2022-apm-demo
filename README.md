@@ -3,7 +3,7 @@
 To run, install `poetry` and run the following:
 
 ```bash
-poetry run flask run
+> poetry run flask run
  * Serving Flask app 'pycon2022-apm-demo' (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
